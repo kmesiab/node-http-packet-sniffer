@@ -1,0 +1,27 @@
+{
+  "name": "http-spy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmesiab/node-http-packet-sniffer.git"
+  },
+  "author": "Kevin Mesiab <kmesiab@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmesiab/node-http-packet-sniffer/issues"
+  },
+  "homepage": "https://github.com/kmesiab/node-http-packet-sniffer#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "url": "^0.11.0"
+  }
+}
